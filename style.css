@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100%;
-    background-color: #ddb4f8;
+    background-color: rgb(161, 156, 204);
   }
 
   .header{
@@ -32,7 +32,7 @@ body{
   .slick-dots li button:before
   {
     font-size: 20px;
-    color:#caf825 !important;
+    color:#4525f8 !important;
   }
   
   .slick-slide img{
@@ -41,5 +41,5 @@ body{
 
   .slick-prev:before, .slick-next:before{
     font-size: 30px;
-    color: #caf825 ;
+    color: #4525f8 ;
   }
